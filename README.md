@@ -1,3 +1,3 @@
 # PF
 
-![image](./Incorrect punctuation.png)
+![image](./Typo.png)
